@@ -25,7 +25,7 @@ import AddWorld from './pages/AddWorld';
 import EditWorld from './pages/EditWorld';
 
 import ProtectedRoute from './components/ProtectedRoute';
-import Navbar from './components/Navbar';
+import Navbar from './components/NavBar';
 import Footer from './components/Footer';
 import { AuthProvider } from './Context/AuthContext';
 
